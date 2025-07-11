@@ -2,6 +2,8 @@
   "name": "💫Butterfly🦋 Sizu💟",
   "version": "1.0.0",
   "main": "index.js",
+  "author": "Maruf Billah",
+  "description": "A Messenger bot project by Maruf Billah | Butterfly Sizu💟🦋 & Maruf System💫",
   "dependencies": {
     "express": "^4.18.2"
   }
