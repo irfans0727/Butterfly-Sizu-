@@ -5,14 +5,16 @@
 
 ---
 
-Welcome to 💫Butterfly🦋 Sizu💟 — The coolest Messenger bot project,  
-fully made and managed by Maruf Billah.
+Welcome to 💫Butterfly🦋 Sizu💟 — The ultimate Messenger bot,  
+fully managed by Maruf Billah.
 
-> **How to use:**  
-> 1. Install dependencies: `npm install`  
-> 2. Start bot: `node index.js`  
-> 3. See magic!
+## Folder Structure
+- `/commands`: All bot commands
+- `/events`: Event handlers (like message, join, etc)
+- `/modules`: Helper modules
+- `/scripts`: Start/deploy scripts
+- `.github/workflows`: GitHub Actions for CI/CD
 
 ---
 
-_Created with love by Maruf Billah | Butterfly Sizu💟🦋 & Maruf System💫_
+_Created by Maruf Billah | Butterfly Sizu💟🦋 & Maruf System💫_
